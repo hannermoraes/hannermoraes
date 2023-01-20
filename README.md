@@ -11,9 +11,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hannermoraes&bg_color=000000&color=d1d1d1&line=56a463&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hannermoraes&theme=monokai&row=2&no-bg=true&column=6&margin-w=50&margin-h=20" />
-</p>
+</p> -->
 
 <div align="center"> 
 <a href="https://instagram.com/hannermoraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&"</a>
@@ -34,6 +34,9 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+
+ 
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52BE80&height=120&section=footer"/>
 
