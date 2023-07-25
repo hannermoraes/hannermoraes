@@ -9,8 +9,8 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannermoraes)](https://github.com/hannermoraes/github-readme-stats) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hannermoraes&bg_color=000000&color=d1d1d1&line=56a463&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hannermoraes&bg_color=000000&color=d1d1d1&line=56a463&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hannermoraes&theme=monokai&row=2&no-bg=true&column=6&margin-w=50&margin-h=20" />
 </p> -->
