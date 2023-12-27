@@ -23,7 +23,7 @@
  
    
 ### 🧑‍💻 Habilidades:
-<img src="https://skillicons.dev/icons?i=javascript,typescript,angular,bootstrap,postgres,laravel,php,react"/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,angular,bootstrap,mysql,sqlite,sass"/><br>
 
 
  
