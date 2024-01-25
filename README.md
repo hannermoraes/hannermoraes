@@ -9,8 +9,6 @@
 
 <div align="center"> 
   
-  <a href = "https://www.instagram.com/hannermoraes_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     
   <a href = "mailto:hannermoraes@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -23,7 +21,7 @@
  
    
 ### 🧑‍💻 Habilidades:
-<img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,angular,bootstrap,tailwind"/><br>
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,nextjs,angular,bootstrap,tailwind"/><br>
 
 
  
